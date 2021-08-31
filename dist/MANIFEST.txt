@@ -1,0 +1,37 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "voxter",
+  "signedByOrgName": "voxter",
+  "rootUrls": [
+    "https://voxter.grafana.net/"
+  ],
+  "plugin": "voxter-sensu-sensugo-datasource",
+  "version": "1.1.0",
+  "time": 1630439956225,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "README.md": "bb99bf5a0c45f243336fd13166a9ce56be10786de8a29cd5cff0a4e90abda0da",
+    "img/ds-query-editor.png": "4ef9ac88e302de6b91283500e06fa67a1dbf9903984d3e481201bfed64d713ed",
+    "img/sensu_logo.png": "6c63ce4ef027ec08cbe46e95550850434b780ad06b195ceb8b964c29a028de2c",
+    "module.js": "19144e4e1ed085f25d14739f7de48bd3caf5061241fde3f5ffe3e36ce15b79e2",
+    "module.js.map": "03ad482c00bf5047ff861a53b5636242ef874d56198d7f8ce081768e80b748de",
+    "partials/config.html": "9a7b1fb89f294f318bc8bbe38e941728f49aaa0ec2c6896a8700444c992251d2",
+    "partials/query.editor.html": "58e527a3c47c5555d8fce441480d69047e13d1f5ce886387736423d4141c6de0",
+    "plugin.json": "235776057b1f4b8f9c6e172f4c1b31ba356407a24b3dbf02ccb4485608b36318"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.1
+Comment: https://openpgpjs.org
+
+wqAEARMKAAYFAmEuihQACgkQfk0ManCIZueskQIGJRq1/P8LM++f6ZuEM31/
+IpcMo3xU6Emh3H5J4TrE0yW2qy/4ao5kCNiA6KU59UvllO7QB7EtpptdE0I5
+KGWQgVYCBAuPsFHqdlkkHGi3F6tUIxcqN57zOWPPhIE48TTMaBLyOV8e60xU
+UfW1BRnLdssDoqUmepq9WbSMQ6mDqcD3bzZc
+=CYT3
+-----END PGP SIGNATURE-----
